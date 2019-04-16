@@ -6,6 +6,6 @@ module "database" {
 
   db_name = "mattsdb"
   location = "eastus"
-  sql_admin_username = "matt"
+  sql_admin_username = "mattnewDB"
   sql_password = "PassW0rD"
 }
