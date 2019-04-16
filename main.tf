@@ -7,5 +7,5 @@ module "database" {
   db_name = "mattsdb"
   location = "eastus"
   sql_admin_username = "matt"
-  sql_password = "password"
+  sql_password = "PassW0rD!"
 }
