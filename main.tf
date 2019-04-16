@@ -7,5 +7,5 @@ module "vm" {
   location = "eastus"
   name = "mattService"
   namespace = "mattsNamespace"
-  vm_size = "VM1"
+  vm_size = "Basic_A1"
 }
